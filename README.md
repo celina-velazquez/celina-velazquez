@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Celina Velazquez 👋
 
-<!--
-**celina-velazquez/celina-velazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an advanced analytics professional specializing in machine learning, predictive modeling, time series forecasting, classification, regression, clustering, exploratory data analysis (EDA), feature engineering, and data visualization.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+* Python
+* R
+* SQL
+
+### Machine Learning & Statistics
+
+* scikit-learn
+* XGBoost
+* Predictive Modeling
+* Time Series Forecasting
+* Classification
+* Regression
+* Clustering
+* Feature Engineering
+* Statistical Analysis
+* Model Evaluation
+* Hyperparameter Tuning
+
+### Data Analysis & Visualization
+
+* Data Wrangling
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Tableau
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebooks
+* RStudio
+* Visual Studio Code
+
+## Projects
+- Hospital Quality Intelligence Dashboard
+- Customer Segmentation
+- Breast Cancer Prediction
+
+## Areas of Interest
+- Machine Learning
+- Healthcare Analytics
+- Business Intelligence
+- Time Series Analysis
+- Marketing Analytics
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/celinavelazquez/
