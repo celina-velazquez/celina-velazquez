@@ -1,6 +1,7 @@
 # Hi, I'm Celina Velazquez 👋
 
-I'm an advanced analytics professional specializing in machine learning, predictive modeling, time series forecasting, classification, regression, clustering, exploratory data analysis (EDA), feature engineering, and data visualization.
+I'm an advanced analytics professional with experience in biotech, marketing, financial services, project management, and government. I am pursuing a Masters Degree in Applied Data Science and am looking for opportunities to apply this skillset to business questions around prediction, customer segmentation, forecasting, and classification. A demonstrated ability to convey complex ideas to audiences across the organization allows me to effectively collaborate with technical and non-technical audiences, as well as leadership and direct reports.
+
 
 ## Skills
 
