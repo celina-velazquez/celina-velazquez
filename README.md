@@ -39,15 +39,13 @@ I'm an advanced analytics professional specializing in machine learning, predict
 * RStudio
 * Visual Studio Code
 
-```markdown
 ## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏥 **[Hospital Quality Intelligence Dashboard](https://github.com/USERNAME/REPOSITORY)** | Interactive dashboard and predictive analytics system for analyzing hospital quality measures and patient outcomes. |
-| 👥 **[Customer Segmentation](https://github.com/USERNAME/REPOSITORY)** | Machine learning clustering project that identifies customer segments based on customer characteristics and behavior. |
-| 🎗️ **[Breast Cancer Prediction](https://github.com/USERNAME/REPOSITORY)** | Machine learning classification project for predicting breast cancer diagnoses using demographic and clinical features. |
-```
+| 👥 **[Customer Segmentation](https://github.com/vxdao01/504)** | Machine learning clustering project that identifies customer segments based on customer characteristics and behavior. |
+| 🎗️ **[Breast Cancer Prediction](https://github.com/celina-velazquez/breast_cancer_tumor_classification)** | Machine learning classification project for predicting breast cancer diagnoses using demographic and clinical features. |
+
 
 
 ## Areas of Interest
